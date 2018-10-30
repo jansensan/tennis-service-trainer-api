@@ -1,0 +1,16 @@
+{
+  "name": "tennis-service-trainer-server",
+  "description": "Services for the Tennis Service Trainer",
+  "version": "0.0.1",
+  "author": "Mat Janson Blanchet <mat.jb@jansensan.net> (https://jansensan.net)",
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jansensan/tennis-service-trainer-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jansensan/tennis-service-trainer-server/issues"
+  },
+  "homepage": "https://github.com/jansensan/tennis-service-trainer-server#readme"
+}
