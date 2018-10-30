@@ -1,6 +1,6 @@
-# Tennis Service Trainer — Services
+# Tennis Service Trainer API
 
-Services for the Tennis Service Trainer project.
+API (webservices) for the [Tennis Service Trainer](https://github.com/jansensan/tennis-service-trainer) project.
 
 See the [project presentation slides](https://academia.jansensan.net/30853/tennis-service-trainer-wristband-presentation/).
 
