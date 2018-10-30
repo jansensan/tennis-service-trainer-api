@@ -5,3 +5,5 @@
 *.DS_STORE
 
 ### PROJECT-SPECIFIC FILES ###
+*.log
+/node_modules

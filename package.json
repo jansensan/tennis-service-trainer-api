@@ -4,7 +4,10 @@
   "version": "0.0.1",
   "author": "Mat Janson Blanchet <mat.jb@jansensan.net> (https://jansensan.net)",
   "license": "MIT",
-  "main": "src/index.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jansensan/tennis-service-trainer-server.git"
@@ -12,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/jansensan/tennis-service-trainer-server/issues"
   },
-  "homepage": "https://github.com/jansensan/tennis-service-trainer-server#readme"
+  "homepage": "https://github.com/jansensan/tennis-service-trainer-server#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "osc": "^2.2.4"
+  }
 }
