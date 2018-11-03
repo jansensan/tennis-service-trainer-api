@@ -1,5 +1,5 @@
 // dependencies
-var bodyParser = require('body-parser');
+const bodyParser = require('body-parser');
 
 
 module.exports = function (app) {
@@ -17,7 +17,7 @@ module.exports = function (app) {
   // to support url-encoded bodies
   app.use(bodyParser.urlencoded({
     extended: true
-  })); 
+  }));
 
   // home
   app.get('/', getHome);

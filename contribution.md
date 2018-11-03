@@ -40,8 +40,7 @@ Ensure you install these modules globally on your development machine:
 
 - Open a [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS))/[cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe) window
 - Go to the root of this project's directory
-- Run `npm start`, which will start the local server
-- Open a web browser and go to `http://localhost:3000/` to confirm the server is running.
+- Run `npm start`, which will start the local server in the Terminal window
 
 ### Stop the server
 
