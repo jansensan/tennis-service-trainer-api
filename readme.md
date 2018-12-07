@@ -1,6 +1,6 @@
 # Tennis Service Trainer API
 
-![](https://img.shields.io/badge/Academic%20Project%20%E2%80%94%20Advanced%20Interface%20Design-In%20Progress-green.svg)
+![](https://img.shields.io/badge/Academic%20Project%20%E2%80%94%20Advanced%20Interface%20Design-Abandoned-red.svg)
 
 API (webservices) for the [Tennis Service Trainer](https://github.com/jansensan/tennis-service-trainer) project.
 
